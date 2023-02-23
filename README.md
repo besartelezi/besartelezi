@@ -3,7 +3,7 @@
 
 My name is Besart Elezi, and I just want to start off this README with some essential information and some fun facts about me!
 
-* I'm currently in training at BeCode to become a Fullstack Developer <!-- , and I'm currently looking for an internship -->
+* I'm currently a Full Stack Developer at Publican
 * Thanks to my background in Marketing, I can write some spicy READMES
 * Making memes is a passion of mine, especially memes about coding
 * Some of my hobbies are: Watching anime, reading manga/books, playing videogames, drawing, and writing
@@ -27,8 +27,8 @@ And because I need to explain the concept in a simple and fun way, it again help
 Here are some of the memes I made:
 
 ![here's-a-scrummy-meme](readme-images/scrum-meme.png)
+
 ![here's-a-solid-meme](readme-images/liskov.png)
-![here's-a-meme](readme-images/one-piece-of-memes.png)
 
 ## Bye there :wave:
 <!-- That's not how the quote goes General Kenobi -->
